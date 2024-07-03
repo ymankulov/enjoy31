@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+a {
+  text-decoration: none;
+}
+
+body {
+  background: rgb(79, 57, 144);
+  background: linear-gradient(
+    34deg,
+    rgba(79, 57, 144, 1) 0%,
+    rgba(26, 79, 181, 1) 43%,
+    rgba(3, 16, 78, 1) 100%
+  );
+  min-height: 100vh;
+}
